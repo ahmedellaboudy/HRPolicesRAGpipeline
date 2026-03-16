@@ -1,6 +1,6 @@
 # 🤖 HR Policies RAG Chatbot
 
-A **Retrieval-Augmented Generation (RAG)** chatbot that answers employee questions about HR policies — in both **English and Arabic** — by retrieving relevant content directly from official HR policy PDF documents.
+A **Retrieval-Augmented Generation (RAG)** chatbot that answers employee questions about HR policies in both **English and Arabic** by retrieving relevant content directly from official HR policy PDF documents.
 
 ---
 
@@ -21,7 +21,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that answers employee questio
 
 ## Overview
 
-This project builds an interactive HR chatbot powered by RAG. It processes HR policy documents (PDF), stores them as semantic embeddings in a vector database, and uses a large language model (LLM) to generate concise, grounded answers to employee queries — without hallucination, since every answer is tied to retrieved policy context.
+This project builds an interactive HR chatbot powered by RAG. It processes HR policy documents (PDF), stores them as semantic embeddings in a vector database, and uses a large language model (LLM) to generate concise, grounded answers to employee queries without hallucination, since every answer is tied to retrieved policy context.
 
 ---
 
